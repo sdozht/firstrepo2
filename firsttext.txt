@@ -1,2 +1,3 @@
 Today , which is 2018.6.28 , is the first day I use Git.
-Now is 13：43.
+Now is 13:43.
+Now is 13:54.
